@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="ja" dir="ltr">
+<html lang="ja">
   <head>
-    <meta charset="utf-8">
+		<meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!--  
@@ -12,7 +12,8 @@
     <title>写真家　朝岡 | Asaoka Camera</title>
     <!-- TemplateEndEditable -->
     <!-- TemplateBeginEditable name="meta" -->
-		
+		<meta name="description" content="朝岡のオフィシャルサイト">
+		<meta name="keywords" content="岐阜県,カメラマン,撮影">
 		<!-- TemplateEndEditable -->
   <!--  
     Favicons
@@ -74,7 +75,7 @@
           </div>
           <div class="collapse navbar-collapse" id="custom-collapse">
             <ul class="nav navbar-nav navbar-right">
-              <li class="dropdown"><a class="" href="#" data-toggle="dropdown">Home</a>
+              <li class="dropdown"><a class="" href="../index.html" data-toggle="dropdown">Home</a>
                 <!--<ul class="dropdown-menu">
                   <li><a href="index_mp_fullscreen_video_background.html">Default</a></li>
                   <li><a href="index_op_fullscreen_gradient_overlay.html">One Page</a></li>
@@ -548,7 +549,7 @@
                   <!--<h5 class="widget-title font-alt">About HIRO</h5>-->
 									<div class="footer_logo"><img src="../images/logo_header.svg" alt="ロゴ" class="center-block"></div>
                   <!--<p>The languages only differ in their grammar, their pronunciation and their most common words.</p>-->
-                  <p class="text-center top_margin10">Phone: <a href="tel:09000000000">090-0000-0000</a></p>
+                  <p class="text-center top_margin10">Phone: <a href="tel:08051195381">080-5119-5381</a></p>
                   <!--<p>Email:<a href="#">info@hiro-camera.com</a></p>-->
                 </div>
               </div>
