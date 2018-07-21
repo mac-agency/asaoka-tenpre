@@ -70,7 +70,7 @@
       <nav class="navbar navbar-custom navbar-fixed-top navbar-transparent" role="navigation">
         <div class="container">
           <div class="navbar-header">
-            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#custom-collapse"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a class="navbar-brand navber_custom" href="../index.html"><img src="../images/logo_header.svg" class="img-head_logo" alt="ロゴ"></a>
+            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#custom-collapse"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a class="navbar-brand navber_custom" href="../index1.html"><img src="../images/logo_header.svg" class="img-head_logo" alt="ロゴ"></a>
           </div>
           <div class="collapse navbar-collapse" id="custom-collapse">
             <ul class="nav navbar-nav navbar-right">
@@ -585,7 +585,7 @@
           <div class="container">
             <div class="row">
               <div class="col-sm-12 text-center">
-                <p class="copyright font-alt">&copy; 2018&nbsp;<a href="../index.html">HIRO CAMERA</a>, All Rights Reserved</p>
+                <p class="copyright font-alt">&copy; 2018&nbsp;<a href="../index1.html">HIRO CAMERA</a>, All Rights Reserved</p>
               </div>
               
             </div>
