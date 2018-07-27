@@ -71,7 +71,7 @@
       <nav class="navbar navbar-custom navbar-fixed-top navbar-transparent">
         <div class="container">
           <div class="navbar-header">
-            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#custom-collapse"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a class="navbar-brand navber_custom" href="../index1.html"><img src="../images/logo_header.svg" class="img-head_logo" alt="ロゴ"></a>
+            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#custom-collapse"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a class="navbar-brand navber_custom" href="../index.html"><img src="../images/logo_header.svg" class="img-head_logo" alt="ロゴ"></a>
           </div>
           <div class="collapse navbar-collapse" id="custom-collapse">
             <ul class="nav navbar-nav navbar-right">
@@ -88,12 +88,12 @@
                   <li><a href="index_shop.html">Shop</a></li>
                 </ul>-->
               </li>
-              <li class="dropdown"><a class="" href="#" data-toggle="dropdown">Profile</a>
+              <li class="dropdown"><a class="" href="../profile/index.html" data-toggle="dropdown">Profile</a>
               </li>
-              <li class="dropdown"><a class="" href="#" data-toggle="dropdown">Service</a>
+              <li class="dropdown"><a class="" href="../service/index.html" data-toggle="dropdown">Service</a>
               </li>
               
-              <li class="dropdown"><a class="" href="#" data-toggle="dropdown">Contact</a>
+              <li class="dropdown"><a class="" href="../contact/index.html" data-toggle="dropdown">Contact</a>
               </li>
               
               
@@ -547,9 +547,9 @@
               <div class="col-sm-3">
                 <div class="widget">
                   <!--<h5 class="widget-title font-alt">About HIRO</h5>-->
-									<div class="footer_logo"><img src="../images/logo_header.svg" alt="ロゴ" class="center-block"></div>
+									<div class="footer_logo"><a href="../index.html"><img src="../images/logo_header.svg" alt="ロゴ" class="center-block"></a></div>
                   <!--<p>The languages only differ in their grammar, their pronunciation and their most common words.</p>-->
-                  <p class="text-center top_margin10">Phone: <a href="tel:08051195381">080-5119-5381</a></p>
+                  <p class="text-center top_margin10">Phone: <a href="tel:05068731774">050-6873-1774</a></p>
                   <!--<p>Email:<a href="#">info@hiro-camera.com</a></p>-->
                 </div>
               </div>
@@ -569,10 +569,10 @@
                 <div class="widget">
                   <h5 class="widget-title font-alt text-right">HIEO CAMERA WEB SITE</h5>
                   <ul class="icon-list text-right">
-                    <li class="yokonarabi"><a href="#">HOME</a></li>
-                    <li class="yokonarabi"><a href="#">Profile</a></li>
-                    <li class="yokonarabi"><a href="#">Service</a></li>
-                    <li class="yokonarabi"><a href="#">Contact</a></li>
+                    <li class="yokonarabi"><a href="../index.html">HOME</a></li>
+                    <li class="yokonarabi"><a href="../profile/index.html">Profile</a></li>
+                    <li class="yokonarabi"><a href="../service/index.html">Service</a></li>
+                    <li class="yokonarabi"><a href="../contact/index.html">Contact</a></li>
                     
                   </ul>
                 </div>
