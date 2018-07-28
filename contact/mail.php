@@ -33,10 +33,10 @@ if (version_compare(PHP_VERSION, '5.1.0', '>=')) {//PHP5.1.0以上の場合の�
 //---------------------------　必須設定　必ず設定してください　-----------------------
 
 //サイトのトップページのURL　※デフォルトでは送信完了後に「トップページへ戻る」ボタンが表示されますので
-$site_top = "https://www.tokyo-active.com/";
+$site_top = "https://www.hiro-camera.com/";
 
 // 管理者メールアドレス ※メールを受け取るメールアドレス(複数指定する場合は「,」で区切ってください 例 $to = "aa@aa.aa,bb@bb.bb";)
-$to = "info@tokyo-active.com";
+$to = "info@hiro-camera.com";
 
 //フォームのメールアドレス入力箇所のname属性の値（name="○○"　の○○部分）
 $Email = "Email";
@@ -125,12 +125,12 @@ $mailFooterDsp = 1;
 $mailSignature = <<< FOOTER
 
 ──────────────────────
-private Gim ACTIVE
-〒125-0041　東京都葛飾区東金町1-13-2　鈴木ビル3F　
-TEL：03- 5876 - 4067 　
+HIRO CAMERA
+〒500-8801　岐阜県岐阜市忠節町4-18-17 忠節コーポ201　
+TEL：050-6873-1774 　
 　
-E-mail:info@tokyo-active.com
-URL: https://www.tokyo-active.com/
+E-mail:info@hiro-camera.com
+URL: https://www.hiro-camera.com/
 ──────────────────────
 
 FOOTER;

@@ -64,12 +64,14 @@ body {
 }
 
 .top_cyousei {
-  /* [disabled]margin-bottom: 50px; */
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 
 .hometop_cyousei {
   position: static;
-  margin-bottom: -200px;
+  margin-top: -170px;
+  margin-bottom: 50px;
 }
 
 .profile_midashi {
@@ -96,8 +98,8 @@ body {
 .overlays {
   background-image: url(../images/02.png);
   background-repeat: repeat;
-  position: absolute;
-  z-index: 1;
+  /* [disabled]position: absolute; */
+  /* [disabled]z-index: 1; */
   background-size: auto auto;
   width: 100%;
   height: 100%;
@@ -111,6 +113,17 @@ body {
 
 .top_margin50 {
   margin-top: 50px;
+}
+
+.contact_title {
+  font-size: 28px;
+  line-height: 1.4em;
+  text-align: center;
+}
+
+.contact_read {
+  font-size: 16px;
+  text-align: center;
 }
 
 @media (max-width:320px){
@@ -169,6 +182,17 @@ body {
 .new_works_read {
   font-size: 13px;
 }
+
+.contact_title {
+  font-size: 24px;
+  line-height: 1.4em;
+  text-align: center;
+}
+
+.contact_read {
+  font-size: 13px;
+  text-align: center;
+}
 }
 
 @media (max-width:375px) and (min-width:321px){
@@ -188,6 +212,17 @@ body {
 .concept_midashi {
   font-size: 19px;
 }
+
+.contact_title {
+  font-size: 24px;
+  line-height: 1.4em;
+  text-align: center;
+}
+
+.contact_read {
+  font-size: 13px;
+  text-align: center;
+}
 }
 
 @media (max-width:414px) and (min-width:376px){
@@ -206,6 +241,17 @@ body {
 
 .concept_midashi {
   font-size: 19px;
+}
+
+.contact_title {
+  font-size: 24px;
+  line-height: 1.4em;
+  text-align: center;
+}
+
+.contact_read {
+  font-size: 13px;
+  text-align: center;
 }
 }
 
@@ -252,6 +298,12 @@ body {
   top: 50%;
   right: 5%;
   width: 50px;
+}
+
+.hometop_cyousei {
+  position: static;
+  margin-top: -300px;
+  margin-bottom: 40px;
 }
 }
 
