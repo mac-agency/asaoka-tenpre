@@ -126,6 +126,14 @@ body {
   text-align: center;
 }
 
+.side-image2 {
+  position: absolute;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
 @media (max-width:320px){
 
 .overlays {
